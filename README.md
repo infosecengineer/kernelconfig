@@ -8,7 +8,7 @@ solid-fog runme.sh script to merge configs
 around Line 316 the new configs were added:
 
 format is:
-script defconfig cn913x_additions.config <additional-configs-separated-by-space>
+script defconfig cn913x_additions.config \<additional-configs-separated-by-space\>
 
 eg:
 
